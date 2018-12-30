@@ -24,8 +24,8 @@ Credits
 Fitbit Solitaire uses and credits the following projects:
 
 * Fitbit, Inc. [SDK](https://www.npmjs.com/package/@fitbit/sdk) and [SDK-CLI](https://www.npmjs.com/package/@fitbit/sdk-cli), both licensed under BSD-3-Clause.
-* [Pigulla's mersennetwister](https://github.com/pigulla/mersennetwister/), under BSD-3-Clause license.
+* Pigulla's [mersennetwister](https://github.com/pigulla/mersennetwister/), under BSD-3-Clause license.
 * Kenney's [Boardgame Pack](https://www.kenney.nl/assets/boardgame-pack) and [Game Icons](https://www.kenney.nl/assets/game-icons), under CC0 1.0 Universal License.
 * Caveman Lee's [Pool Table Texture](https://www.toptal.com/designers/subtlepatterns/pool-table/), under CC BY-SA 3.0 License.
 
-Fitbit Solitaire is licensed under the more restrictive GNU GPLv3, for more details see [LICENSE.md]
+Fitbit Solitaire is licensed under the more restrictive GNU GPLv3, for more details see [LICENSE.md](./LICENSE.md).
